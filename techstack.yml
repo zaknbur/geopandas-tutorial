@@ -1,7 +1,8 @@
 repo_name: zaknbur/geopandas-tutorial
 report_id: 20ccf8de1b9dff5fc883dfaf5f17b62b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:33:57+00:00'
+timestamp: '2024-01-05T08:35:18+00:00'
 requested_by: jorisvandenbossche
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial/blob/master/img/remark.min.js
   detection_source: img/remark.min.js
   last_updated_by: Joris Van den Bossche
   last_updated_on: 2018-05-07 06:11:21.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Joris Van den Bossche
   last_updated_on: 2018-05-06 16:46:47.000000000 Z
@@ -64,6 +70,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial/blob/master/index.html
   detection_source: index.html
   last_updated_by: Joris Van den Bossche
   last_updated_on: 2018-05-07 06:11:21.000000000 Z
@@ -76,12 +83,14 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial
   detection_source: Repo Metadata
 - name: geopandas
   website_url: https://pypi.org/project/geopandas/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12520/empty-logo-square.png
+  detection_source_url: https://github.com/zaknbur/geopandas-tutorial/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Joris Van den Bossche
   last_updated_on: 2018-05-06 16:46:47.000000000 Z
